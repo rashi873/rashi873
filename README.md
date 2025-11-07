@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">A Data</h1>
+<h1 align="center">👋 Hi there, I'm a Data Analyst in Progress</h1>
 <!--
 **rashi873/rashi873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
