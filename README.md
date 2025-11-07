@@ -1,4 +1,9 @@
-<h1 align="center">👋 Hi there, I'm a Data Analyst in Progress</h1>
+<h1 align="center">
+  <a href="https://github.com/sirrkademani">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F2A365&center=true&vCenter=true&width=500&lines=👋+Hi+there%2C+I'm+a+Data+Analyst+in+Progress!;Welcome+to+my+GitHub+Profile!;Curious+Mind+Exploring+Data+and+Insights." alt="Typing SVG" />
+  </a>
+</h1>
+
 <!--
 **rashi873/rashi873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
