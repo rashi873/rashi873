@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F2A365&center=true&vCenter=true&width=400&lines=Hi+there!;I'm+a+Data+Analyst+in+Progress." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=F2A365&center=true&vCenter=true&width=500&lines=Hi+there!;I'm+a+Data+Analyst." alt="Typing SVG" />
 </p>
+
 
 
 
