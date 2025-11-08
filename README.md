@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://your-repo-or-host.com/data-analyst-animation.gif" alt="Data Analyst at Work Animation" width="600"/>
 </p>
+
 ---
 
 <p align="center">
