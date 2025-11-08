@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://your-repo-or-host.com/data-analyst-animation.gif" alt="Data Analyst at Work Animation" width="600"/>
+  <img src="https://github.com/rashi873/rashi873/raw/main/buisness%20girl%20with%20laptop.gif" alt="Data Analyst Animation" width="600"/>
 </p>
+
 
 ---
 
