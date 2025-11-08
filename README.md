@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/rashi873/rashi873/raw/main/buisness%20girl%20with%20laptop.gif" alt="Data Analyst Animation" width="400"/>
+  <img src="https://github.com/rashi873/rashi873/raw/main/buisness%20girl%20with%20laptop.gif" alt="Data Analyst Animation" width="300"/>
 </p>
 
 
